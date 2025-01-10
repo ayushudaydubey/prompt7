@@ -72,7 +72,7 @@ nav .sign-in button:hover {
   transform: translateY(-3px);
 }
 
-/* Page Layout */
+
 .page {
   display: flex;
   justify-content: space-between;
